@@ -1,0 +1,5 @@
+# SPM 核心配置项（可变更配置）
+mirror: "https://mirror.spm-example.com"  # 包镜像源
+storage_path: "~/.spm/packages"           # 包存储路径
+max_retries: 3                            # 下载重试次数
+log_level: "INFO"                         # 日志级别
